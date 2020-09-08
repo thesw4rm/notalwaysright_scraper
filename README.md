@@ -1,4 +1,4 @@
-#This is a web scraper I built for the website http://notalwaysright.com
+# This is a web scraper I built for the website http://notalwaysright.com
 
 
 
